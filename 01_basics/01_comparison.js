@@ -9,4 +9,3 @@ console.log(null >=0);
 
 // Data Types:::::--- Stack(Primitive), Heap (Non-primitive)
 
-const name = "kuldeep"
